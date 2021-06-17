@@ -1,0 +1,5 @@
+nome1= input('Qual e o nome? ')
+idade1= input('Qual e a idade? ')
+nome2= input('Qual e o nome? ')
+idade2= input('Qual e a idade? ')
+print(f'A idade de {nome1} e {idade1} anos. A idade de {nome2} e {idade2} anos.')
